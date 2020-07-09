@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.233333 4.2333333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="av_icon_16.svg"
+   inkscape:export-filename="/home/woody/Server/www/WORDPRESS/Themes/AV Themes/Sources/Logo/av_icon_64.png"
+   inkscape:export-xdpi="89.5"
+   inkscape:export-ydpi="89.5">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient873">
+      <stop
+         style="stop-color:#673ab7;stop-opacity:1"
+         offset="0"
+         id="stop869" />
+      <stop
+         style="stop-color:#e91e63;stop-opacity:1"
+         offset="1"
+         id="stop871" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient873"
+       id="linearGradient881"
+       gradientUnits="userSpaceOnUse"
+       x1="-341.37759"
+       y1="-82.931175"
+       x2="-337.11206"
+       y2="-78.743156"
+       gradientTransform="translate(341.3881,375.70837)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="73.522024"
+     inkscape:cy="-28.926723"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)">
+    <g
+       id="g964">
+      <path
+         inkscape:export-ydpi="89"
+         inkscape:export-xdpi="89"
+         id="rect855-6"
+         d="M 0.52771932,292.77715 H 3.7056142 c 0.2865392,0 0.5172191,0.23068 0.5172191,0.51722 v 3.1779 c 0,0.28654 -0.2306799,0.51722 -0.5172191,0.51722 H 0.52771932 c -0.2865395,0 -0.51721933,-0.23068 -0.51721933,-0.51722 v -3.1779 c 0,-0.28654 0.23067983,-0.51722 0.51721933,-0.51722 z"
+         style="opacity:1;fill:url(#linearGradient881);fill-opacity:1;stroke:#000000;stroke-width:0.02100001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 0.48439979,295.74748 h 0.44876763 l 0.14728788,-0.25085 0.2209317,-0.3452 0.3129867,-0.53392 v 0.28307 0.25085 0.3452 0.25085 h 0.4395622 v -1.72833 H 1.5821545 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.99958801px;line-height:1.25;font-family:'Illegal Curves';-inkscape-font-specification:'Illegal Curves Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="path942"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 2.6028492,295.13992 v -0.73644 h 0.1564934 v -0.38203 H 2.6028492 2.4417531 2.1540815 v 1.72373 h 0.5109046 l 1.0839466,-1.72373 H 3.270247 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.99958801px;line-height:1.25;font-family:'Illegal Curves';-inkscape-font-specification:'Illegal Curves Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="path944"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

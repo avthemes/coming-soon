@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.466666 8.4666665"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="av_icon_32.svg"
+   inkscape:export-filename="/home/woody/Server/www/WORDPRESS/Themes/AV Themes/Sources/Logo/av_icon_64.png"
+   inkscape:export-xdpi="89.5"
+   inkscape:export-ydpi="89.5">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient873">
+      <stop
+         style="stop-color:#673ab7;stop-opacity:1"
+         offset="0"
+         id="stop869" />
+      <stop
+         style="stop-color:#e91e63;stop-opacity:1"
+         offset="1"
+         id="stop871" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient873"
+       id="linearGradient881"
+       gradientUnits="userSpaceOnUse"
+       x1="-341.37759"
+       y1="-82.931175"
+       x2="-332.94934"
+       y2="-74.486893"
+       gradientTransform="translate(341.3881,371.47503)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="73.522024"
+     inkscape:cy="-28.926723"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53332)">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:url(#linearGradient881);fill-opacity:1;stroke:#000000;stroke-width:0.02100001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.0475172,288.54382 h 6.3716327 c 0.5745068,0 1.0370168,0.46251 1.0370168,1.03702 v 6.37163 c 0,0.57451 -0.46251,1.03702 -1.0370168,1.03702 H 1.0475172 c -0.57450752,0 -1.0370172,-0.46251 -1.0370172,-1.03702 v -6.37163 c 0,-0.57451 0.46250968,-1.03702 1.0370172,-1.03702 z"
+       id="rect855-6"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path942"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.99958801px;line-height:1.25;font-family:'Illegal Curves';-inkscape-font-specification:'Illegal Curves Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 0.96066216,294.49929 H 1.8604347 l 0.29531,-0.50295 0.4429649,-0.69213 0.6275338,-1.0705 v 0.56755 0.50295 0.69213 0.50295 h 0.8813157 v -3.46527 H 3.1616442 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path944"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.99958801px;line-height:1.25;font-family:'Illegal Curves';-inkscape-font-specification:'Illegal Curves Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 5.2081222,293.28114 v -1.47655 h 0.3137669 v -0.76596 H 5.2081222 4.8851269 4.3083496 v 3.45605 h 1.0243562 l 2.1732971,-3.45605 H 6.5462451 Z" />
+  </g>
+</svg>
