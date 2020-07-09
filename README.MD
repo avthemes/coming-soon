@@ -85,9 +85,6 @@ For the changelog, please see [the Releases page on GitHub](https://github.com/a
 
 ## Upgrade Notice
 
-### v1.0.1
-Upgrade required to patch bugs
-
 ### v1.0
 No upgrades required.
 
