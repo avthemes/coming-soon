@@ -1,5 +1,9 @@
 # Coming Soon / Maintenance Mode / Under construction Plugin by AV Themes
 
+[![Coming soon sample 1](https://i.imgur.com/fAY8FCk.png)](https://i.imgur.com/fAY8FCk.png, "Coming soon sample 1")
+
+More [screenshots](https://github.com/avthemes/coming-soon#screenshots) below
+
 Create a clean and beautiful coming soon, under construction or maintenance mode page while your website is being developed. Make your website inaccessible to the public with our simple to use Coming soon page, Under construction or Maintenance mode plugin. Logged in users and admins will have full access to the site while the plugin is active to see the progress and update being worked on.
 
 ## Plugin Demo
