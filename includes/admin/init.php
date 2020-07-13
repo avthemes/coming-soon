@@ -25,7 +25,7 @@ function AV_CS_admin_init() {
 */
 function AV_CS_admin_notices() {
     
-    $notice_type            = 'error ml-3';
+    $notice_type            = 'error';
     $is_dismissible         = false;
     $message                =  __( '<strong>Coming Soon / Maintenance mode</strong> is <strong>active</strong>!', 'av-coming-soon' ) . ' <a href="' . admin_url( '/admin.php?page=' . AV_CS_PLUGIN_SETTING_PAGE ) . '">' . __( 'Deactivate it, when you are ready to go live.', 'av-coming-soon' ) . '</a>';
 

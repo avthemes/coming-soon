@@ -4,7 +4,7 @@ Donate link: https://avthemes.com
 Tags: maintenance mode, coming soon, under development, construction
 Requires at least: 3.7
 Tested up to: 5.4
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 Requires PHP: 5.4
 
@@ -50,7 +50,7 @@ Plugin featured overview:
 
 Our aim is to help you get the most out of your WordPress site both with our Plugins and Themes. 
 
-If you feel that we have achieved this by using this plugin, please [leave us a review](). We appreciate it very much and your feedback helps us develop better plugins and themes.
+If you feel that we have achieved this by using this plugin, please [leave us a review](https://wordpress.org/support/plugin/av-coming-soon/reviews/#new-post). We appreciate it very much and your feedback helps us develop better plugins and themes.
 
 Thank you
 James Reddy
@@ -101,13 +101,16 @@ Please use [the issue tracker on the GitHub repo](https://github.com/avthemes/co
 
 = Do you accept donations? =
 
-No, we do not accept donations. If you like the plugin, I would love for you to [leave a review]() or tell all your friends about the plugin too.
+No, we do not accept donations. If you like the plugin, I would love for you to [leave a review](https://wordpress.org/support/plugin/av-coming-soon/reviews/#new-post) or tell all your friends about the plugin too.
 
 == Changelog ==
 
 For the changelog, please see [the Releases page on GitHub](https://github.com/avthemes/coming-soon/releases).
 
 == Upgrade Notice ==
+
+= v1.0.1 =
+Minor typography updates.
 
 = v1.0 =
 No upgrades required.

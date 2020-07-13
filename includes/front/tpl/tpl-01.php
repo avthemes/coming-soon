@@ -52,7 +52,7 @@
 			&copy; <?php echo date('Y');?> - <?php echo esc_html( get_bloginfo( 'name' ) ); ?> 
 			<?php if( (int)$AV_CS_options['show_login'] == 1 ) { ?> &bull; &#128274; <a href="<?php echo esc_url_raw( home_url( 'wp-admin' ) );?>" rel="nofollow"><?php _e( 'Login', 'av-coming-soon' );?></a><?php } ?>
 			<?php if( (int)$AV_CS_options['show_plugin_url'] == 1 ) { ?>
-			<br><small><?php _e( 'This site is using the free <a href="">AV Coming Soon</a> plugin', 'av-coming-soon' ); ?></small>
+			<br><small><?php _e( 'This site is using the free <a href="https://avthemes.com/plugin/coming-soon">AV Coming Soon</a> plugin', 'av-coming-soon' ); ?></small>
 			<?php } ?>
 		</div>
 	</div>

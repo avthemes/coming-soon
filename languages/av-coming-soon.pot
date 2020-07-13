@@ -1,0 +1,413 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AV Coming Soon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-13 09:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/admin/tpl/plugin-options.php:56
+msgid ""
+"( Use this link to view site without logging in. E.g. Send it to your "
+"clients )"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:161
+#: includes/admin/tpl/plugin-options.php:171
+msgid "100%"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:167
+msgid "33%"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:158
+#: includes/admin/tpl/plugin-options.php:168
+msgid "50%"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:159
+#: includes/admin/tpl/plugin-options.php:169
+msgid "66%"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:160
+#: includes/admin/tpl/plugin-options.php:170
+msgid "83%"
+msgstr ""
+
+#: includes/admin/init.php:30 includes/admin/init.php:43
+msgid ""
+"<strong>Coming Soon / Maintenance mode</strong> is <strong>active</strong>!"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:322
+msgid ""
+"Activating this option will inform your browser and search engines that your "
+"website is temporarily unavailable."
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:42
+msgid "Active"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add a coming soon page to your WordPress site with customizable layout and "
+"widgets."
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:96
+msgid "Additional paragraph"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:400
+msgid ""
+"and we will get back to you ASAP. We answer all questions, and most of them "
+"withing a few hours during business hours."
+msgstr ""
+
+#. Name of the plugin
+msgid "AV Coming Soon"
+msgstr ""
+
+#. parent slug
+#: includes/admin/menus.php:32
+msgid "AV Coming Soon Options"
+msgstr ""
+
+#. page title
+#: includes/admin/menus.php:19
+msgid "AV Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "AV Themes"
+msgstr ""
+
+#: includes/admin/menus.php:18
+msgid "AV Themes & Plugins Options"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:278
+msgid "Background color"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:259
+msgid "Background image"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:56
+msgid "Bypass link:"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:183
+#: includes/admin/tpl/plugin-options.php:194
+msgid "Center"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:368
+msgid ""
+"Checking this option will permanently delete this plugin settings when you "
+"uninstall it."
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:44
+msgid "Click to activate"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:42
+msgid "Click to deactivate"
+msgstr ""
+
+#. page title
+#: includes/admin/menus.php:33
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/front/tpl/header.php:56
+msgid "Coming soon"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:45
+msgid "coming soon / maintenance mode"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:33
+msgid "Coming Soon / Maintenance Mode Status"
+msgstr ""
+
+#: includes/activate.php:22
+msgid "Coming soon..."
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:17
+msgid "Configure Coming Soon Page"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:179
+msgid "Container alignement"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:154
+msgid "Container width"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:82
+msgid "Content settings"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:337
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:310
+msgid "Custom style & Analytics"
+msgstr ""
+
+#: includes/admin/init.php:30
+msgid "Deactivate it, when you are ready to go live."
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:361
+msgid "Delete settings on uninstall"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:140
+msgid "Design &amp; layout settings"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:44
+msgid "Disabled"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:315
+msgid "Enable 503 header"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:173
+msgid "Extra large devices: 1200px+"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:211
+msgid "Font color"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:220
+msgid "Font shadow color"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:201
+msgid "Font type"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:413
+msgid "Found this plugin useful?"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:291
+msgid ""
+"Found this plugin useful? Help spread the word by including a small link in "
+"the footer. This also encourages us to continue developing more free awesome "
+"plugins for you. Thanks!"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:68
+msgid "Generate"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:64
+msgid "Generate new code"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:404
+msgid "Get Help Now"
+msgstr ""
+
+#: includes/activate.php:88
+msgid "Go to settings &rsaquo;"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:329
+msgid "Google Analytics ID"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://avthemes.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://avthemes.com/plugin/wordpress-coming-soon"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:163
+msgid "Large devices: 992px+"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:121
+msgid "Launch date text"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:103
+msgid "Launch date/time"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:182
+#: includes/admin/tpl/plugin-options.php:193
+msgid "Left"
+msgstr ""
+
+#: includes/front/tpl/tpl-01.php:53
+msgid "Login"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:234
+msgid "Logo"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:86
+msgid "Main title"
+msgstr ""
+
+#: includes/activate.php:21
+msgid "Manage your online presence with ease"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:399
+msgid "open a new topic in our official support forum"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:98
+msgid "Optional content"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:49
+msgid "Preview"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:247
+#: includes/admin/tpl/plugin-options.php:272
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:184
+#: includes/admin/tpl/plugin-options.php:195
+msgid "Right"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:127
+#: includes/admin/tpl/plugin-options.php:297
+#: includes/admin/tpl/plugin-options.php:343
+#: includes/admin/tpl/plugin-options.php:375
+msgid "Save settings"
+msgstr ""
+
+#: includes/activate.php:65
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:115
+msgid "Show launch countdown"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:110
+msgid "Show launch date"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:144
+msgid "Show login button"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:286
+msgid "Show us some love"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:393
+msgid "Something not working? Need help?"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:91
+msgid "Sub title"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:420
+msgid "Submit a Review"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:190
+msgid "Text alignement"
+msgstr ""
+
+#: includes/activate.php:88
+msgid ""
+"Thank you for installing & activating the <strong>AV Coming Soon</strong> "
+"plugin."
+msgstr ""
+
+#: includes/front/tpl/tpl-01.php:55
+msgid ""
+"This site is using the free <a href=\"https://avthemes.com/plugin/coming-"
+"soon\">AV Coming Soon</a> plugin"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:356
+msgid "Uninstall settings"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:265
+msgid "Upload background image"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:246
+#: includes/admin/tpl/plugin-options.php:271
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:240
+msgid "Upload logo"
+msgstr ""
+
+#: includes/activate.php:23
+msgid "We are currently working on the last features and will launch soon!"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:398
+msgid ""
+"We are here to for you! It can be frustrating when things don't work like "
+"you want them to. If you need help with something, please"
+msgstr ""
+
+#: includes/activate.php:26
+msgid "We are launching on"
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:417
+msgid ""
+"We would love to hear your feedback on this plugin. Your feedback helps us "
+"make the plugin better and also motivates us to create more free plugins for "
+"WordPress."
+msgstr ""
+
+#: includes/admin/tpl/plugin-options.php:147
+#: includes/admin/tpl/plugin-options.php:289
+#: includes/admin/tpl/plugin-options.php:319
+#: includes/admin/tpl/plugin-options.php:365
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/process.php:19
+msgid "You are not allowed to access this page."
+msgstr ""
+
+#: includes/admin/process.php:12
+msgid "You are not allowed to be on this page."
+msgstr ""

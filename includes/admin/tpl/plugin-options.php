@@ -401,7 +401,7 @@
 							);?>
 					</p>
 
-					<a href="" class="btn btn-outline-secondary btn-sm" target="_blank"><?php _e( 'Get Help Now', 'av-coming-soon' );?></a>
+					<a href="https://wordpress.org/support/plugin/av-coming-soon/" class="btn btn-outline-secondary btn-sm" target="_blank"><?php _e( 'Get Help Now', 'av-coming-soon' );?></a>
 
 				</div>
 			</div>
@@ -417,7 +417,7 @@
 						<?php _e( 'We would love to hear your feedback on this plugin. Your feedback helps us make the plugin better and also motivates us to create more free plugins for WordPress.', 'av-coming-soon' ); ?>
 					</p>
 
-					<a href="" class="btn btn-outline-secondary btn-sm" target="_blank"><?php _e( 'Submit a Review', 'av-coming-soon' );?></a>
+					<a href="https://wordpress.org/support/plugin/av-coming-soon/reviews/#new-post" class="btn btn-outline-secondary btn-sm" target="_blank"><?php _e( 'Submit a Review', 'av-coming-soon' );?></a>
 
 				</div>
 			</div>
